@@ -6,7 +6,6 @@ const images = [
   'i-hug.png',
   'i-shrug.png',
   'g-paws.jpg',
-  'i-gift.png',
   'j-badge.png',
   'm-ref.jpeg',
   'm-witch.png',
