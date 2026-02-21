@@ -1,0 +1,35 @@
+:root {
+    --c-dark: #333;
+    --c-darker: #222;
+    --c-black: #000;
+    --c-light: #aaa;
+    --c-lighter: #ccc;
+    --c-lightest: #eee;
+    --c-white: #fff;
+}
+
+body {
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    /*font-weight: <weight>; enter weight from 100-900*/
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+body {
+    background-color: var(--c-dark);
+    color: var(--c-lightest);
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    gap: 12px;
+}
+li {}
+li img {
+    max-width: 40vw;
+}
