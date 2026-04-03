@@ -1,4 +1,9 @@
 const images = [
+  'r-ref.jpg',
+  'r-watermelon.jpg',
+  'r-f.png',
+  'i-gift.png',
+  'i-hug.png',
   'i-shrug.png',
   'g-paws.jpg',
   'j-badge.png',
